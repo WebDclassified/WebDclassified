@@ -5,17 +5,12 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/akashwhocodes)](https://x.com/prabhat__teotia)
 ![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.akashrajpurohit.com%2Fc%2Fakash~gh~akashrajpurohit&query=count&style=flat&logo=github&label=Visitors&color=066da5)
 
-
----
-
 ### Glad to see you here! 🚀
 
 I'm a **full-stack web developer** passionate about building **scalable, real-world applications** using the MERN stack.  
 I enjoy turning ideas into products and constantly improving my backend and system design skills.
 
 <img align="right" alt="Coding" src="./assets/giphy.gif" width="280"/>
-
----
 
 ### Talking about Personal Stuffs:
 
@@ -26,7 +21,6 @@ I enjoy turning ideas into products and constantly improving my backend and syst
 - 👾 &nbsp; Fun fact: I build first, optimize later  
 - 📫 &nbsp; Reach me at: **prabhatteotia2024@gmail.com**
 
----
 
 ### My Absolute Favorites:
 
@@ -34,7 +28,6 @@ I enjoy turning ideas into products and constantly improving my backend and syst
 - 🧠 &nbsp; Learning backend architecture & scalability  
 - 🚀 &nbsp; Working on startup-style & open-source projects  
 
----
 
 ### Languages and Tools:
 
@@ -47,7 +40,6 @@ I enjoy turning ideas into products and constantly improving my backend and syst
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" /></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" /></code>
 
----
 
 ### Featured Projects 🚀
 
@@ -66,7 +58,6 @@ I enjoy turning ideas into products and constantly improving my backend and syst
 - 💼 **Wallet App** – Account & balance management system  
   🔗 https://github.com/WebDclassified/wallet-app  
 
----
 
 ### ⚙️ Things I use to get stuff done
 
@@ -75,6 +66,5 @@ I enjoy turning ideas into products and constantly improving my backend and syst
 - **Browser:** Chrome / Brave  
 - **Stack:** MERN + PostgreSQL  
 
----
 
 ⭐ **If you like my work, consider starring my repositories!**
