@@ -1,17 +1,20 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Prabhat Teotia — Full Stack Developer 👨‍💻
 
 [![GitHub Badge](https://img.shields.io/badge/-WebDclassified-181717?style=flat&logo=github&logoColor=white)](https://github.com/WebDclassified)
-[![LinkedIn Badge](https://img.shields.io/badge/-Prabhat%20Teotia-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-![Visitors](https://img.shields.io/badge/Visitors-👀-blue)
+[![LinkedIn Badge](https://img.shields.io/badge/-Prabhat%20Teotia-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-teotia-333235253/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/akashwhocodes)](https://x.com/prabhat__teotia)
+![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.akashrajpurohit.com%2Fc%2Fakash~gh~akashrajpurohit&query=count&style=flat&logo=github&label=Visitors&color=066da5)
 
 ---
+<img src="https://raw.githubusercontent.com/WebDclassified/WebDclassified/blob/main/assets/github-snake-dark.svg" />
+
 
 ### Glad to see you here! 🚀
 
 I'm a **full-stack web developer** passionate about building **scalable, real-world applications** using the MERN stack.  
 I enjoy turning ideas into products and constantly improving my backend and system design skills.
 
-<img align="right" alt="Coding" src="./assets/coding.webp" width="280"/>
+<img align="right" alt="Coding" src="./assets/giphy.gif" width="280"/>
 
 ---
 
@@ -22,7 +25,7 @@ I enjoy turning ideas into products and constantly improving my backend and syst
 - 🚀 &nbsp; Learning **Advanced React, TypeScript, PostgreSQL & System Design**  
 - 💬 &nbsp; Ask me about **MERN stack, APIs, Auth, Databases**  
 - 👾 &nbsp; Fun fact: I build first, optimize later  
-- 📫 &nbsp; Reach me at: **prabhatteotia.dev@gmail.com**
+- 📫 &nbsp; Reach me at: **prabhatteotia2024@gmail.com**
 
 ---
 
