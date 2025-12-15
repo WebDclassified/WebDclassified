@@ -10,7 +10,7 @@
 I'm a **full-stack web developer** passionate about building **scalable, real-world applications** using the MERN stack.  
 I enjoy turning ideas into products and constantly improving my backend and system design skills.
 
-<img align="right" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdtemp3MTVzMHBxdHd3ZjVmem02YWYzcjdmOXV6ZTVqOGRzeHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="280"/>
+<img align="right" alt="Coding" src="./assets/jimmy.webp" width="280"/>
 
 ### Talking about Personal Stuffs:
 
