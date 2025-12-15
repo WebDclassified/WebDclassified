@@ -22,13 +22,6 @@ I enjoy turning ideas into products and constantly improving my backend and syst
 - 📫 &nbsp; Reach me at: **prabhatteotia2024@gmail.com**
 
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; Building full-stack applications from scratch  
-- 🧠 &nbsp; Learning backend architecture & scalability  
-- 🚀 &nbsp; Working on startup-style & open-source projects  
-
-
 ### Languages and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /></code>
@@ -58,13 +51,6 @@ I enjoy turning ideas into products and constantly improving my backend and syst
 - 💼 **Wallet App** – Account & balance management system  
   🔗 https://github.com/WebDclassified/wallet-app  
 
-
-### ⚙️ Things I use to get stuff done
-
-- **OS:** Windows / Linux  
-- **Editor:** VS Code  
-- **Browser:** Chrome / Brave  
-- **Stack:** MERN + PostgreSQL  
 
 
 ⭐ **If you like my work, consider starring my repositories!**
